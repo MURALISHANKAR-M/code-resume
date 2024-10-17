@@ -1,0 +1,108 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+     
+ 
+}
+.all-browser{
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.h3{
+    background: white;
+}
+aside{
+    width: 13%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: rgb(1, 203, 102);
+    color: rgb(9, 34, 4);
+    border-radius: 10px;
+}
+#hobies{
+    color: rgb(251, 255, 0);
+}
+#profile{
+    color: rgb(252, 13, 1);
+}
+figcaption{
+    color: #03754b;
+}
+.p{
+    background-color: rgb(36, 158, 148);
+    border-radius: 10px;
+    color: rgb(245, 237, 237);
+}
+.button{
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #03fca1;
+    border: 5px solid ;
+  }
+  
+  .button1:hover {
+    
+    background-color: #04AA6D;
+    color: white;
+  }
+  #myCanvas{
+    margin: 0;
+    padding: 0;
+    width:80%;
+    height:270px;  
+    border: 1px solid rgb(248, 5, 5);
+    border-radius: 20px;
+}
+
+.col{
+    background-color: rgb(255, 50, 50);
+    
+    
+}
+ 
+
+#th{
+    width: 60%;
+}
+#b,#m,
+#n,
+#f{
+    background-color: rgb(59, 63, 255);
+    color: rgb(255, 255, 255);
+   
+}
+ .ad{
+    font-weight: bolder;
+ }
+ kbd{
+    border-radius: 2px;
+    padding: 2px;
+    border: 1px solid black;
+ }
+ #mark{
+    color: #f8fffc;
+    background-color: rgb(1, 181, 181);
+    border-radius: 10px;
+ }
